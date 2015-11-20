@@ -1,0 +1,19 @@
+/* CSS Document */
+.ui-mobile .headerimg {
+  width: 100%;
+  height:auto;
+ }
+.ui-mobile #page{
+	background-image:url(../images/ship-helm-759954_1920.jpg);
+	background-repeat:no-repeat;
+	}
+.ui-mobile [data-role=header]{
+	background-image:none;
+	background-color:none;	
+}
+.ui-page .ui-header {
+	background-image:none;
+	background-color:none;
+	background:none;
+	border:none;
+}
